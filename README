@@ -1,0 +1,8 @@
+Pour les notebook:
+ - DataPreparation pour récupérer toutes les donnés et calculer les stats
+ - PageExplorer pour avoir l'analyse d'une page dans un dataset
+ - DatasetExplorer pour avoir l'analyse d'un dataset
+
+Pour DataPreparation, préciser le basedir qui doit contenir un fichier 'pagename' qui contient le nom des pages.
+
+Pour les autres, juste préciser basedir. 
